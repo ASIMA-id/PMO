@@ -4,14 +4,14 @@
   },
   {
     "date": "September 13, 2023",
-    "update": "Initial Release"
+    "message": "Initial Release"
   },
   {
     "date": "September 14, 2023",
-    "update": "Added app_sliders on App Content"
+    "message": "Added app_sliders on App Content"
   },
   {
     "date": "September 16, 2023",
-    "update": "Fix bug on the checkout page\nUpdate addresses\nAdded identifier kota or kabupaten on City field\nOnly allowed 1 address for customer account "
+    "message": "Fix bug on the checkout page\nUpdate addresses\nAdded identifier kota or kabupaten on City field\nOnly allowed 1 address for customer account "
   }
 ]
